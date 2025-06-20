@@ -50,7 +50,9 @@ json-server --watch db.json --port 3001
 ```
 
 This uses Vite for fast development. The app runs at:
+
 📍 Frontend: `http://localhost:5173`
+
 📍 Json-Server Mock Backend: `http://localhost:3001/`
 
 ---
