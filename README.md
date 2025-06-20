@@ -81,6 +81,11 @@ This uses Vite for fast development. The app runs at:
 ## 🎥 Code Walkthrough Videos
 
 👉 Click here to watch the short videos walkthrough:
+
 [Part-1 5 min]([https://your-video-link.com](https://www.loom.com/share/3fb1714078164bada6e51c022eb18aac?sid=828cb787-561d-4585-9fe0-4bca1607fb7c))
+
 [Part-2 5 min](https://www.loom.com/share/e564a3a3af3f433b8de634a9fc2f4341?sid=81de1763-02e7-424c-a6aa-e696ee52867c)
+
 [Part-3 5 min](https://www.loom.com/share/a1db41516f874b2889c69240d592c08e?sid=2b23f90e-d737-41e9-85d0-fb834716dfc2)
+
+---
